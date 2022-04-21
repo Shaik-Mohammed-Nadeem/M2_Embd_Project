@@ -14,4 +14,4 @@
 |5_Report|Deep Explanation about project|
 |6_Output|Consisting of .hex file and simulating file|
 |7_ImagesandVideos|All the images and program execution video|
-|Case Study|
+|Case Study| Detailed Description|
