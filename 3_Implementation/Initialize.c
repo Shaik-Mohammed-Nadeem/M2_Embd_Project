@@ -11,7 +11,7 @@
  
 void initialize(){
      
-    char openingText[] = "www.hdhprojects.nl";
+    char openingText[] = "projects";
     char clockText[] = "Clock";
     int i;
  
