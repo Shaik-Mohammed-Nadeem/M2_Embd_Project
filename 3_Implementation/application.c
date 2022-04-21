@@ -1,11 +1,4 @@
-/*
- * operational.c
- *
- * Created: 20-5-2017 15:07:22
- * Author: HdH
- * Description: Application for multi threat, show lcd clock
- */
- 
+
 #include <avr/io.h>
 #include "i2c.h"
 #include "i2cdisplay.h"
