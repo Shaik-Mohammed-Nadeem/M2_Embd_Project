@@ -15,3 +15,7 @@
 |6_Output|Consisting of .hex file and simulating file|
 |7_ImagesandVideos|All the images and program execution video|
 |Case Study| Detailed Description|
+
+Simulation Circuit
+
+![simulation](https://user-images.githubusercontent.com/91003914/164958052-a40bded4-9dcd-438c-b625-277f61123113.png)
